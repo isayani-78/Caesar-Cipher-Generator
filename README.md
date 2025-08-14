@@ -15,6 +15,20 @@ It works by shifting each character in the message by a fixed number of position
 2. The program shifts each character in the message forward by the key value to encrypt.
 3. To decrypt, it shifts the characters back by the same key value.
 
+## ▶ How to Run
+1. Clone the repository
+2. Navigate into the project folder
+      cd caesar-cipher-generator
+3. Run the program using Python
+      python caesar_cipher.py
+
+(If you are on Linux/Mac and python runs Python 2, use python3 instead.)
+
+## Follow the prompts
+-Enter the message you want to encrypt.
+-Enter a key (shift value).
+-The program will display the encrypted message and then decrypt it back.
+
 ## 🖥 Example
 ```bash
 Enter message: Hello123!
