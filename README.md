@@ -24,9 +24,9 @@ It works by shifting each character in the message by a fixed number of position
 
 (If you are on Linux/Mac and python runs Python 2, use python3 instead.)
 ## Follow the prompts
-i.Enter the message you want to encrypt.
-ii.Enter a key (shift value).
-iii.The program will display the encrypted message and then decrypt it back.
+i) Enter the message you want to encrypt.
+ii) Enter a key (shift value).
+iii) The program will display the encrypted message and then decrypt it back.
 
 ## 🖥 Example
 ```bash
