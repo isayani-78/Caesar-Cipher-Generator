@@ -20,7 +20,7 @@ It works by shifting each character in the message by a fixed number of position
 2. Navigate into the project folder
       (cd Caesar-Cipher-Generator)
 3. Run the program using Python
-      (python Caesar_Cipher.py)
+      (python caesar_cipher.py)
 
 (If you are on Linux/Mac and python runs Python 2, use python3 instead.)
 ## Follow the prompts
