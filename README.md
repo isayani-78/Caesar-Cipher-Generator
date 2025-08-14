@@ -18,9 +18,9 @@ It works by shifting each character in the message by a fixed number of position
 ## ▶ How to Run
 1. Clone the repository
 2. Navigate into the project folder
-      (cd caesar-cipher-generator)
+      (cd Caesar-Cipher-Generator)
 3. Run the program using Python
-      (python caesar_cipher.py)
+      (python Caesar_Cipher.py)
 
 (If you are on Linux/Mac and python runs Python 2, use python3 instead.)
 ## Follow the prompts
