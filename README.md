@@ -41,7 +41,7 @@ ii) Enter a key (shift value).
 iii) The program will display the encrypted message and then decrypt it back.
 
 
-##🖥 Example
+## 🖥 Example
 ```bash
 Encrypt (E) or Decrypt (D): D
 Enter encrypted text: Wklv lv d whvw phvvdjh
