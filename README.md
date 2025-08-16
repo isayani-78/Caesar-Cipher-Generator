@@ -27,13 +27,13 @@ This tool enhances it by adding auto-decryption and brute-force cracking for edu
     git clone https://github.com/isayani-78/caesar-cipher-generator.git
 2. Navigate into the project folder
    ```bash
-      cd caesar-cipher-generator
+   cd caesar-cipher-generator
 3. Run the program using Python in windows 
    ```bash
-      python caesar_cipher.py
+   python caesar_cipher.py
 4. For using linux/mac use python3 instead of (Python)
     ```bash
-    python3 caesar_cipher.py
+   python3 caesar_cipher.py
     
 ## Follow the prompts
 
