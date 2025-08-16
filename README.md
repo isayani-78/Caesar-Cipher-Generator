@@ -15,7 +15,7 @@ This tool enhances it by adding auto-decryption and brute-force cracking for edu
 2. The program shifts each character in the message forward by the key value to encrypt.
 3. To decrypt, it shifts the characters back by the same key value.
 
-##🛠 Requirements
+## 🛠 Requirements
 
 -Python 3.x
 
@@ -23,15 +23,18 @@ This tool enhances it by adding auto-decryption and brute-force cracking for edu
 
 ## ▶ How to Run
 1. Clone the repository
+    ```bash
+    git clone https://github.com/isayani-78/caesar-cipher-generator.git
 2. Navigate into the project folder
    ```bash
       cd caesar-cipher-generator
 3. Run the program using Python in windows and for using linux/mac use python3 instead of (Python)
    ```bash
       python caesar_cipher.py
-      python3 caesar_cipher.py
-
-
+4. For using linux/mac use python3 instead of (Python)
+    ```bash
+    python3 caesar_cipher.py
+    
 ## Follow the prompts
 
 i) Enter the message you want to encrypt.
