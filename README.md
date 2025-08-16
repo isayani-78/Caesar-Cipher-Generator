@@ -1,8 +1,8 @@
 # Caesar Cipher - Python Implementation
 
 ## 📌 Project Description
-This is a simple Python implementation of the **Caesar Cipher** encryption technique.
-It works by shifting each character in the message by a fixed number of positions in a defined character set.
+The **Caesar Cipher** is one of the oldest known encryption techniques. It works by shifting each letter of the plaintext by a fixed number of positions in the alphabet.
+This tool enhances it by adding auto-decryption and brute-force cracking for educational and security learning purposes.
 
 ## ⚡ Features
 - Supports **letters (uppercase & lowercase)**
@@ -15,22 +15,36 @@ It works by shifting each character in the message by a fixed number of position
 2. The program shifts each character in the message forward by the key value to encrypt.
 3. To decrypt, it shifts the characters back by the same key value.
 
+##🛠 Requirements
+
+-Python 3.x
+
+-No external libraries required
+
 ## ▶ How to Run
 1. Clone the repository
 2. Navigate into the project folder
-      (cd Caesar-Cipher-Generator)
-3. Run the program using Python
-      (python caesar_cipher.py)
+   ```bash
+      cd Caesar-Cipher-Generator
+3. Run the program using Python in windows and for using linux/mac use python3 instead of (Python)
+   ```bash
+      python caesar_cipher.py
+      python3 Caesar_cipher.py
 
-(If you are on Linux/Mac and python runs Python 2, use python3 instead.)
+
 ## Follow the prompts
+
 i) Enter the message you want to encrypt.
+
 ii) Enter a key (shift value).
+
 iii) The program will display the encrypted message and then decrypt it back.
 
-## 🖥 Example
+
+##🖥 Example
 ```bash
-Enter message: Hello123!
-Enter key (shift value): 3
-Encrypted: Khoor456$
-Decrypted: Hello123!
+Encrypt (E) or Decrypt (D): D
+Enter encrypted text: Wklv lv d whvw phvvdjh
+[+] Best key guess: 3
+[+] Decrypted text: This is a test message
+
