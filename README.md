@@ -37,7 +37,7 @@ This tool enhances it by adding auto-decryption and brute-force cracking for edu
     
 ## Follow the prompts
 
-i) Enter the message you want to encrypt/decrypt in E OR D.
+i) Enter the message you want to encrypt/decrypt (E OR D).
 
 ii) Enter a key (shift value).
 
