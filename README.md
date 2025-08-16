@@ -37,17 +37,29 @@ This tool enhances it by adding auto-decryption and brute-force cracking for edu
     
 ## Follow the prompts
 
-i) Enter the message you want to encrypt.
+i) Enter the message you want to encrypt/decrypt in E OR D.
 
 ii) Enter a key (shift value).
 
-iii) The program will display the encrypted message and then decrypt it back.
+iii) The program will display the encrypted message or decrypt message as per your prompt.
 
 
 ## 🖥 Example
 ```bash
-Encrypt (E) or Decrypt (D): D
-Enter encrypted text: Wklv lv d whvw phvvdjh
-[+] Best key guess: 3
-[+] Decrypted text: This is a test message
+[+] Encrypt (E) or Decrypt (D): E
+Enter message: Hello World
+Enter key: 3
+Encrypted: Khoor#Zruog
+
+[+] Encrypt (E) or Decrypt (D): D
+Enter encrypted text: Khoor#Zruog
+Best key guess: 3
+Decrypted text: Hello World
+
+[+] Brute-forcing all possible keys...
+
+Key 1: Gdkkn Vnqkc
+Key 2: Fcjjm Umpjb
+Key 3: Hello World   ✅
+...
 
